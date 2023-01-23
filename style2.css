@@ -1,0 +1,119 @@
+.bg-c1{
+    background-color: purple !important;
+}
+
+.bg-c2{
+    background-color: rgb(4, 51, 90) !important;
+}
+
+.bg-c3{
+    background-color: rgb(6, 206, 6) !important;
+}
+
+.bg-c4{
+    background-color: #fff !important;
+}
+
+.img-fluid{
+    width: 100% !important;
+    height: 200px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.box-shadow-1{
+    -webkit-box-shadow: -1px 6px 8px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 6px 8px 0px rgba(0,0,0,0.75);
+    box-shadow: -1px 6px 8px 0px rgba(0,0,0,0.75);
+}
+
+/* footer */
+
+footer{
+    background-color: rgb(27, 27, 88) !important;
+    color: #fff !important;
+    text-align: center !important;
+    padding: 1.2rem !important;
+    margin-top: 4% !important;
+  }
+
+  .fa {
+    padding: 20px !important;
+    font-size: 20px !important;
+    text-align: center !important;
+    text-decoration: none !important;
+    margin: 1px 1px !important;
+    border-radius: 100% !important;
+    -webkit-border-radius: 100% !important;
+    -moz-border-radius: 100% !important;
+    -ms-border-radius: 100% !important;
+    -o-border-radius: 100% !important;
+}
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+
+.contenedor-footer {
+    display: flex !important;
+    width: 100% !important;
+    justify-content: space-evenly !important;
+    margin: auto !important;
+    padding-bottom: 20px !important;
+    border-bottom: 1px solid #ccc !important;
+}
+
+.contenedor-footer .content {
+    color: #fff !important;
+    margin-top: 20px !important;
+  
+  }
+  
+  .contenedor-footer .content-foo {
+    text-align: center !important;
+  
+  }
+  
+  .contenedor-footer .content-foo h4 {
+    color: #fff !important;
+    padding-bottom: 5px !important;
+    margin-bottom: 10px !important;
+  
+  }
+  
+  .contenedor-footer .content-foo p {
+    color: #fff !important;
+  
+  }
+  
+  .contenedor-footer .Titulo-final {
+    text-align: center !important;
+    font-size: 15px !important;
+    margin: 20px 0 0 0 !important;
+    color: #fff !important;
+  }
+
+.fondo {
+    background-image: url('../imagen/fondo2.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
